@@ -1,3 +1,7 @@
+NAMA : TRIYOGA PRASETYA
+NIM : F1G124079
+KELAS : A
+
 # Mini-Project: Deteksi Tanda Tangan (Signature Detection)
 
 Proyek ini merupakan implementasi sederhana dari *Document Image Analysis (DIA)* untuk memverifikasi secara otomatis keberadaan tanda tangan pimpinan (Dekan) pada dokumen resmi (Ijazah) menggunakan OpenCV dan Python.
